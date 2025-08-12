@@ -2,8 +2,11 @@
 
 This project is designed to download satellite data, starting with Meteor satellites. The goal is to provide tools and scripts for acquiring, processing, and managing data from Meteor weather satellites, with the potential to expand support for additional satellites in the future.
 
+Scripts for downloading data from the International Space Station (ISS) will also be included. For special ISS passes and event schedules, refer to [ariss.com](https://www.ariss.com), which provides dates and times for unique ISS transmissions.
+
 ## Features
 - Download data from Meteor satellites
+- Scripts for downloading data from the ISS
 - Modular design for future satellite support
 
 ## Getting Started
